@@ -1,0 +1,8 @@
++ Dùng để cộng hai số với nhau
+
+
+
+
+% Dùng để lấy phần dư sau khi chia một số cho một số khác vd 7%3 =1
+// Dùng để láy phần nguyên sau khi chia một số cho một số khác vd : 7 // 3 = 2
+** Dùng để tích luỹ thừa của một số
